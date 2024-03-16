@@ -1,0 +1,12 @@
+Flask
+numpy
+opencv-python
+albumentations
+torch
+Pillow
+scikit-image
+iglovikov-helper-functions
+segmentation-models-pytorch
+torchvision
+pytesseract
+midv500models
